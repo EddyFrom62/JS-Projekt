@@ -68,11 +68,11 @@ body {
  border:0;
  outline: 0;
  border-radius: 30px;
- padding: 15px;
+ padding: 10px;
  width: 230px;
  cursor: pointer;
  font-weight: bold;
-
+ height: 40px;
  font-size: 18px;
 
 }
@@ -109,6 +109,14 @@ p {
   border-bottom: 1px solid white;
   width: 1000px;
 
+}
+
+#pose {
+  height: 40px;
+  width: 40px;
+  float: right;
+  background: transparent;
+  
 }
 
 .footer {
