@@ -11,8 +11,16 @@
 
 body {
   background: #333333;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
 }
 
+.main {
+   flex-grow: 1;
+}
 
 .header{
   width: 100%;
@@ -89,10 +97,50 @@ h1 {
 
 }
 
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
 .menukort {
   float: left;
   margin-left: 40px;
   border-bottom: 1px solid white;
   width: 1000px;
 
+}
+
+.footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 50px;
+  color: white;
+}
+
+.bundtekst {
+  line-height: 25px;
+  font-size: 16px;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  padding: 50px;
+}
+
+.apps {
+  color: white;
+  float: left;
+}
+
+.social {
+  color: white;
+  float: right;
 }
