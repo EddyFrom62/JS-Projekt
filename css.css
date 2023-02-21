@@ -144,3 +144,19 @@ p {
   color: white;
   float: right;
 }
+
+.undertitel {
+  color: white;
+  font-size: 28px;
+  weight: 700;
+  float: left;
+  margin-left: 40px;
+}
+
+.undertitel-tekst {
+  color: white;
+  font-size: 16px;
+  float: left;
+  margin-left: 40px;
+  margin-right: 40px;
+}
