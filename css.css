@@ -160,3 +160,9 @@ p {
   margin-left: 40px;
   margin-right: 40px;
 }
+
+.mobil {
+  margin-left: 100px;
+  width: 20%;
+  background: transparent;
+}
