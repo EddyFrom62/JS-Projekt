@@ -171,15 +171,16 @@ p {
   font-size: 28px;
   weight: 700;
   float: left;
-  margin-left: 40px;
+  width: 1100px;
+  margin: 0 auto;
 }
 
 .undertitel-tekst {
   color: white;
   font-size: 16px;
   float: left;
-  margin-left: 40px;
-  margin-right: 40px;
+  width: 1100px;
+  margin: 0 auto;
 }
 
 .mobil {
