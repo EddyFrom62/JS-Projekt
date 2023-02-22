@@ -127,7 +127,11 @@ p {
   background: transparent;
   position: absolute;
   top: 50%;
+<<<<<<< HEAD
+  transform: translateY(-50%);
+=======
   transform: translatey(-50%);
+>>>>>>> 113b1af09a11209b76aa7dcdee3b24ee558d77c9
 }
 
 .footer {
@@ -183,6 +187,7 @@ p {
   float: left;
   width: 1135px;
   margin: 0 auto;
+  font-weight: 700;
 }
 
 .undertitel-tekst {
