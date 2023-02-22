@@ -176,6 +176,11 @@ p {
 .social {
   color: white;
   float: right;
+  display: flex;
+  justify-content: flex-start;
+  align-items:center;
+  flex-direction: column;
+
 }
 
 .location {
