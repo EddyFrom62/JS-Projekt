@@ -62,7 +62,8 @@ body {
  font-size: 20px;
  text-decoration: none;
  font-weight: lighter;
- letter-spacing: 2px;
+ letter-spacing: 1.5px;
+ padding-left: 12px;
 }
 
 
@@ -72,7 +73,7 @@ body {
  border:0;
  outline: 0;
  border-radius: 28px;
- padding: 10px;
+ padding: 15px;
  width: 250px;
  cursor: pointer;
  font-weight: bold;
@@ -124,13 +125,10 @@ p {
   width: 40px;
   float: right;
   background: transparent;
-<<<<<<< HEAD
-
-=======
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
->>>>>>> 728da72ed7a4e86e435316d727d25c04ad59ee5a
+
 }
 
 .footer {
