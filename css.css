@@ -77,11 +77,10 @@ body {
  height: 45px;
  font-size: 18px;
 
-}
-
-.button {
 
 }
+
+
 
 .logo {
   top: 0;
@@ -95,6 +94,7 @@ body {
 
 nav {
   height: 170px;
+  width: 1300px;
 }
 
 h1 {
@@ -122,15 +122,10 @@ p {
   width: 40px;
   float: right;
   background: transparent;
-<<<<<<< HEAD
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-=======
-
->>>>>>> 1b199a8de933fa771269dbf1c335f54de3e5ad21
 }
-
 
 .footer {
    position: fixed;
