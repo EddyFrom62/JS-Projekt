@@ -66,6 +66,8 @@ body {
 }
 
 
+
+
 .top-nav button {
  background: #f7d834;
  color: #000;
@@ -75,16 +77,12 @@ body {
  padding: 15px;
  width: 240px;
  cursor: pointer;
-<<<<<<< Updated upstream
  height: 45px;
  font-size: 20px;
  font-weight: 900;
-
-=======
  font-weight: 700;
  height: 45px;
  font-size: 18px;
->>>>>>> Stashed changes
 
 }
 
@@ -206,6 +204,7 @@ p {
   margin-left: 200px;
   width: 20%;
   background: transparent;
+
 }
 
 .mobiltekst1 {
