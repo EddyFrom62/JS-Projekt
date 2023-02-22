@@ -128,12 +128,7 @@ p {
   background: transparent;
   position: absolute;
   top: 50%;
-<<<<<<< HEAD
-  transform: translatey(-50%);
-=======
   transform: translateY(-50%);
-
->>>>>>> 1dd50600910d7ce0f0ff3fee8dc2c4efda6629ec
 }
 
 .footer {
