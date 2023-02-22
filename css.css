@@ -132,7 +132,10 @@ p {
   position: absolute;
   top: 50%;
   transform: translatey(-50%);
+<<<<<<< Updated upstream
   margin-left: 10px;
+=======
+>>>>>>> Stashed changes
 }
 
 .footer {
@@ -188,7 +191,6 @@ p {
   float: left;
   width: 1135px;
   margin: 0 auto;
-  font-weight: 700;
 }
 
 .undertitel-tekst {
