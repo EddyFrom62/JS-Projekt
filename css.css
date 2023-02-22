@@ -77,16 +77,10 @@ body {
  padding: 15px;
  width: 240px;
  cursor: pointer;
-<<<<<<< Updated upstream
  height: 45px;
- font-size: 20px;
  font-weight: 900;
-
-=======
- font-weight: 700;
  height: 45px;
  font-size: 18px;
->>>>>>> Stashed changes
 
 }
 
@@ -266,13 +260,13 @@ p {
 
 
 .row {
-  margin: 8px -16px;
+  margin: 2px -6px;
 }
 
 /* Add padding BETWEEN each column (if you want) */
 .row,
 .row > .column {
-  padding: 8px;
+  padding: 0px;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -291,8 +285,9 @@ p {
 
 /* Content */
 .content {
-  background-color: white;
-  padding: 10px;
+  background-color: transparent;
+  padding:0px;
+
 }
 
 /* The "show" class is added to the filtered elements */
@@ -305,17 +300,44 @@ p {
   border: none;
   outline: none;
   padding: 12px 16px;
-  background-color: white;
+  background-color: transparent;
   cursor: pointer;
+  color: white;
+  border-right: 1px solid white;
 }
 
 /* Add a grey background color on mouse-over */
 .btn:hover {
-  background-color: #ddd;
+  text-decoration: underline 2px;
+  text-decoration-color: grey;
 }
 
 /* Add a dark background color to the active button */
 .btn.active {
   background-color: #666;
-   color: white;
+  color: white;
+}
+
+div#myBtnContainer {
+  margin-bottom: 40px;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.content img {
+  border-radius: 16px;
+  border: solid 0.3px grey;
+  height: 250px;
+  width: 150px;
+}
+
+/*/knaptekst/*/
+
+button.btn {
+  font-size: 20px;
+  padding-right:30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 30px;
 }
