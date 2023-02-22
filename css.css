@@ -62,7 +62,8 @@ body {
  font-size: 20px;
  text-decoration: none;
  font-weight: lighter;
- letter-spacing: 2px;
+ letter-spacing: 1.5px;
+ padding-left: 12px;
 }
 
 
@@ -72,7 +73,7 @@ body {
  border:0;
  outline: 0;
  border-radius: 28px;
- padding: 10px;
+ padding: 15px;
  width: 250px;
  cursor: pointer;
  font-weight: bold;
@@ -124,13 +125,14 @@ p {
   width: 40px;
   float: right;
   background: transparent;
-<<<<<<< HEAD
-
-=======
   position: absolute;
   top: 50%;
+<<<<<<< HEAD
+  transform: translatey(-50%);
+=======
   transform: translateY(-50%);
->>>>>>> 728da72ed7a4e86e435316d727d25c04ad59ee5a
+
+>>>>>>> 1dd50600910d7ce0f0ff3fee8dc2c4efda6629ec
 }
 
 .footer {
@@ -173,10 +175,17 @@ p {
   float: right;
 }
 
+.location {
+  color: white;
+  float: left;
+  padding-left: 50px;
+  width: 1100px;
+}
+
 .undertitel {
   color: white;
   font-size: 28px;
-  weight: 700;
+  font-weight: 700;
   float: left;
   width: 1135px;
   margin: 0 auto;
