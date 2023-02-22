@@ -138,10 +138,8 @@ p {
   position: absolute;
   top: 50%;
   transform: translatey(-50%);
-<<<<<<< Updated upstream
   margin-left: 10px;
-=======
->>>>>>> Stashed changes
+
 }
 
 .footer {
@@ -198,7 +196,7 @@ p {
 
 .undertitel {
   color: white;
-  font-size: 28px;
+  font-size: 30px;
   float: left;
   width: 1135px;
   margin: 0 auto;
@@ -206,7 +204,7 @@ p {
 
 .undertitel-tekst {
   color: white;
-  font-size: 16px;
+  font-size: 20px;
   float: left;
   width: 1135px;
   margin: 0 auto;
