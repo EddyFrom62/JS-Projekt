@@ -124,13 +124,9 @@ p {
   width: 40px;
   float: right;
   background: transparent;
-<<<<<<< HEAD
-
-=======
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
->>>>>>> 728da72ed7a4e86e435316d727d25c04ad59ee5a
+  transform: translatey(-50%);
 }
 
 .footer {
@@ -173,10 +169,17 @@ p {
   float: right;
 }
 
+.location {
+  color: white;
+  float: left;
+  padding-left: 50px;
+  width: 1100px;
+}
+
 .undertitel {
   color: white;
   font-size: 28px;
-  weight: 700;
+  font-weight: 700;
   float: left;
   width: 1100px;
   margin: 0 auto;
