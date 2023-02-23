@@ -1,3 +1,5 @@
+// Filteringssektion burger - Sarah
+
 filterSelection("Nyheder")
 function filterSelection(c) {
   var x, i;
@@ -41,6 +43,7 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
+<<<<<<< Updated upstream
 
 //Edvin ballade
 
@@ -56,3 +59,5 @@ for (var i = 0; i < btns.length; i++) {
 	});
 
 	dropdownLink.addEventListener("mouseout", function() {
+=======
+>>>>>>> Stashed changes
