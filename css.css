@@ -357,6 +357,9 @@ p {
   margin-left: 75px;
 }
 
+/* Sarahs rodebutik */
+
+/*filtreringsgallery*/
 
 .row {
   margin: 2px -6px;
@@ -421,13 +424,12 @@ div.overlay {
 }
 
 
-
 /* The "show" class is added to the filtered elements */
 .show {
   display: block;
 }
 
-/* Style the buttons */
+/* knapper i galleri */
 .btn {
   border: none;
   outline: none;
