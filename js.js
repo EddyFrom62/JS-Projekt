@@ -43,3 +43,6 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 //Edvin ballade
+
+
+//Aner ikke hvad fanden jeg laver
