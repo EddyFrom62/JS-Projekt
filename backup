@@ -1,0 +1,1037 @@
+FORSIDE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@200&display=swap" rel="stylesheet">
+<script src="js.js"></script>
+
+</head>
+
+      <nav>
+        <div class="header">
+          <div class="logo">
+            <img src="logo.png" alt="logo">
+          </div>
+            <div class="top-nav">
+              <ul>
+                <li class="dropdown">
+                  <a href="#">Menukort</a>
+                  <div class="dropdown-content">
+                    <a href="index.html">Nyheder</a>
+                    <a href="burger.html">Burgere</a>
+                    <a href="#">Sandwich</a>
+                    <a href="#">Det grønne</a>
+                    <a href="#">Børnemenu</a>
+                    <a href="#">Sideorders & dips</a>
+                    <a href="#">Desserter</a></li>
+              <li class="dropdown">
+                <a href="#">Medlemsskab</a>
+                <div class="dropdown-content">
+                    <a href="#">SunsetPoint</a>
+                    <a href="#">SunsetPLUS</a></li>
+              <li class="dropdown">
+                <a href="#">Find Restaurant</a>
+                <div class="dropdown-content">
+                    <a href="#">Hovedstaden</a>
+                    <a href="#">Midtjylland</a>
+                    <a href="#">Nordjylland</a>
+                    <a href="#">Sønderjylland og Fyn</a>
+                    <a href="#">Sjælland</a>
+                    <a href="#">Grønland</a></li>
+              <li><a href="#">Job</a></li>
+              <li class="dropdown">
+                <a href="#">Om Sunset</a>
+                <div class="dropdown-content">
+                    <a href="#">Nyheder</a>
+                    <a href="#">Børnekoncept</a>
+                    <a href="#">Vertical Farming</a>
+                    <a href="#">Presseside</a>
+                    <a href="#">Kontakt os</a></li>
+              </ul>
+                <a href="#">
+                  <button class="button">BESTIL ONLINE
+                      <img id="pose" src="Sunsetpose.png" alt="pose">
+                  </button>
+                </a>
+            </div>
+          </li>
+          </div>
+        </nav>
+
+<body>
+  <div class="main">
+
+    <h1 class="menukort">Menukort</h1>
+
+</div>
+
+<!--Edvins menu ballade-->
+<div class="menu-container">
+  <div class="menu1">
+    <h2>Nyheder</h2>
+    <img src="forsidebilleder/billede1.jpg" alt="Nyheder">
+    <p>Nyheder</p>
+  </div>
+  <div class="menu2">
+    <h2>Burgere</h2>
+    <img src="forsidebilleder/billede2.jpg" alt="Burgere">
+    <p>Burgere</p>
+  </div>
+  <div class="menu3">
+    <h2>Sandwich</h2>
+    <img src="forsidebilleder/billede3.jpg" alt="Sandwich">
+    <p>Sandwich</p>
+  </div>
+  <div class="menu4">
+    <h2>Børnemenu</h2>
+    <img src="forsidebilleder/billede4.jpg" alt="Børnemenu">
+    <p>Børnemenu</p>
+  </div>
+  <div class="menu5">
+    <h2>Det grønne</h2>
+    <img src="forsidebilleder/billede5.jpg" alt="Det grønne">
+    <p>Det grønne</p>
+  </div>
+  <div class="menu6">
+    <h2>Side Orders & Dips</h2>
+    <img src="forsidebilleder/billede6.jpg" alt="Side Orders & Dips">
+    <p>Side Orders & Dips</p>
+  </div>
+  <div class="menu7">
+    <h2>Desserter</h2>
+    <img src="forsidebilleder/billede7.jpg" alt="Desserter">
+    <p>Desserter</p>
+  </div>
+</div>
+
+
+ <!-- Edvins ballade-->
+<h2 class="undertitel">Se vores store menukort</h2>
+<p class="undertitel-tekst">
+
+Her kan du gå på opdagelse i vores store og varierede menukort, som rummer
+muligheder for alle. Her finder du de saftige burgere, velsmagende salater,
+klassiske sandwich og mange flere muligheder for take away.<br><br>
+
+Alle har deres præferencer, når det kommer til take away, og hos Sunset
+Boulevard vil vi gerne undgå, at medlemmer af dit selskab går forgæves.
+Derfor har vi noget for enhver smag, og der er naturligvis også muligheder
+for de mindste i selskabet i form af lækre børnemenuer.<br><br>
+
+Vi vil gerne gøre vores for at passe på miljøet og klimaet, og derfor
+indeholder vores børnemenuer ikke legetøj. Vi tror på, og vores erfaring
+fortæller os, at maden taler for sig selv.<br><br>
+
+Vores menukort bliver løbende opdateret med spændende nyheder. Vi tager
+gerne imod inputs fra vores kunder, så tøv ikke med at fortælle os, hvis
+der er noget, som du gerne ser på vores menukort i fremtiden.<br><br>
+
+Vi er placeret over hele landet, hvor vi glæder os til at byde dig, og dine
+ venner, familie eller andre, velkommen. Du kan enten bestille i vores restauranter,
+ hvorefter vores dygtige medarbejdere hurtigst muligt vil have din mad klar, eller du
+  kan foretage din bestilling online, hvorefter din mad er klar til afhentning på
+   det aftalte tidspunkt.<br><br>
+
+Du er velkommen til at nyde maden i en af vores hyggelige restauranter eller
+tage den med som take away. Den mad, som vi serverer hos Sunset Boulevard, er
+ kendetegnet ved den gode smag og de friske råvarer, som vi anvender i vores køkken.
+ Selvom det går hurtigt hos Sunset Boulevard, går vi aldrig på kompromis med kvaliteten
+ af råvarerne eller den gode smag, som kendetegner vores take away.<br><br>
+
+Vi glæder os til at byde dig velkommen i en af vores restauranter eller behandle
+din ordre, så du kan nyde maden der, hvor det passer dig.<br><br>
+</p>
+
+<!--Telefon-->
+<img src="mobil2.png" alt="Mobilapp" class=mobil>
+
+<!--Undertitel ved siden af telefon-->
+<h1 class="mobiltekst1">Bestil nemt og<br> hurtigt i appen!</h1>
+
+<!--Undertiteltekst ved siden af telefon-->
+<p class=mobiltekst2>
+Vi har gjort det endnu nemmere at bestille dine favoritter. Bestil og betal direkte i app’en<br><br>
+– Så springer du køen i restauranten over.
+</p>
+
+<!--Appstore ikon-->
+<img src="appstore.png" alt="Appstore" class=appstore>
+<img src="googleplay.png" alt="Google Play" class=googleplay>
+
+<!--Sunset logo på midten af siden -->
+<img src="sunsetlogo1.png" alt="Sunset logo" class=sunsetlogo1>
+
+
+
+
+
+
+<footer class"footer">
+<div class="kolonne">
+  <h3>Sunset Boulevard</h3>
+    <p class="bundtekst">
+      SunsetPoint<br>
+      SunsetPLUS<br>
+      SunsetToGo<br>
+      Vertical Farming<br>
+      Børnekoncept<br>
+      Tilmeld dig vores nyhedsbrev<br>
+      Gavekort<br>
+    </p>
+</div>
+<div class="kolonne">
+  <h3>Nyheder</h3>
+    <p class="nyheder2">
+      Danske Sunset Boulevard sætter omsætningsrekord i 2022 - ekspanderer til udlandet i 2023<br><br>
+      Sunset Boulevard øger børnemenu-salget markant efter udfasning af legetøj<br><br>
+      Sunset Boulevard sætter nye standarder for energiforbrug<br><br>
+    </p>
+</div>
+<div class="kolonne">
+    <h3>Information</h3>
+      <p class="bundtekst">
+        Om Sunset Boulevard<br>
+        Nyheder<br>
+        Presseside<br>
+        Jobs<br>
+        Allergeneoverblik<br>
+        Se smiley rapporter<br>
+      </p>
+</div>
+<div class="kolonne">
+    <h3>Kontakt os</h3>
+      <p class="bundtekst">
+        Ris og ros<br>
+        Restauranter<br>
+      </p>
+    <h3>Vilkår og betingelser</h3>
+      <p class="bundtekst">
+        Cookiepolitik<br>
+        Privatlivspolitik<br>
+        Handelsbetingelser<br>
+      </p>
+</div>
+
+<div class="bottom">
+  <div class="apps">
+    <p>Sunset Boulevard Apps:</p>
+    <img src="Sunset/appstore.png" alt="Hent appen i Apple Store" style="width:130px;height:40px;margin-top:5px;">
+    <img src="Sunset/googleplay.png" alt="Hent appen i Google Play" style="width:130px;height:40px;margin-top:5px;margin-left:40px;">
+  </div>
+  <div class="social">
+    <p>Følg os:</p>
+    <img src="ikon.png" alt="Facebook og Instagram" style="width:100px;height:50px;">
+  </div>
+</div>
+
+<div class="location">
+  <p>Sunset Boulevard - Nordager 26, 6000 Kolding - CVR: 30241509</p>
+  <p>©2021 Sunset Boulevard – Alle rettigheder forbeholdes</p>
+</div>
+
+</footer>
+
+
+</body>
+
+
+
+</html>
+
+BURGER
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@200&display=swap" rel="stylesheet">
+<script src="js.js"></script>
+</head>
+
+<nav>
+  <div class="header">
+    <div class="logo">
+      <img src="logo.png" alt="logo">
+    </div>
+      <div class="top-nav">
+        <ul>
+          <li class="dropdown">
+            <a href="#">Menukort</a>
+            <div class="dropdown-content">
+              <a href="index.html">Nyheder</a>
+              <a href="burger.html">Burgere</a>
+              <a href="#">Sandwich</a>
+              <a href="#">Det grønne</a>
+              <a href="#">Børnemenu</a>
+              <a href="#">Sideorders & dips</a>
+              <a href="#">Desserter</a></li>
+        <li class="dropdown">
+          <a href="#">Medlemsskab</a>
+          <div class="dropdown-content">
+              <a href="#">SunsetPoint</a>
+              <a href="#">SunsetPLUS</a></li>
+        <li class="dropdown">
+          <a href="#">Find Restaurant</a>
+          <div class="dropdown-content">
+              <a href="#">Hovedstaden</a>
+              <a href="#">Midtjylland</a>
+              <a href="#">Nordjylland</a>
+              <a href="#">Sønderjylland og Fyn</a>
+              <a href="#">Sjælland</a>
+              <a href="#">Grønland</a></li>
+        <li><a href="#">Job</a></li>
+        <li class="dropdown">
+          <a href="#">Om Sunset</a>
+          <div class="dropdown-content">
+              <a href="#">Nyheder</a>
+              <a href="#">Børnekoncept</a>
+              <a href="#">Vertical Farming</a>
+              <a href="#">Presseside</a>
+              <a href="#">Kontakt os</a></li>
+        </ul>
+          <a href="#">
+            <button class="button">BESTIL ONLINE
+                <img id="pose" src="Sunsetpose.png" alt="pose">
+            </button>
+          </a>
+      </div>
+    </li>
+    </div>
+  </nav>
+
+
+<body>
+
+
+  <div class="main">
+
+    <h1 class="menukort">Nyheder</h1> <br><br><br><br><br><br><br><br>
+
+</div>
+
+<div id="myBtnContainer">
+  <button class="btn" onclick="filterSelection('Nyheder')"> Nyheder</button>
+  <button class="btn" onclick="filterSelection('Burgere')"> Burgere</button>
+  <button class="btn" onclick="filterSelection('Sandwich')"> Sandwich</button>
+  <button class="btn" onclick="filterSelection('Det grønne')">Det grønne</button>
+  <button class="btn" onclick="filterSelection('Børnemenu')">Børnemenu</button>
+  <button class="btn" onclick="filterSelection('Sides')">Side Orders & Dips</button>
+  <button class="btn" onclick="filterSelection('Desserter')">Desserter</button>
+</div>
+
+<div class="row">
+  <div class="column Nyheder Burgere show">
+    <div class="content">
+      <img src="nyheder/herefordtruffle.jpg" alt="herefordt" style="width:100%">
+      <h2>Hereford truffle</h2>
+    </div>
+  </div>
+
+  <div class="column Nyheder show">
+    <div class="content">
+    <img src="nyheder/hamoggarlic.jpg" alt="ham" style="width:100%">
+      <h2>Grilled Ham og Garlic</h2>
+    </div>
+  </div>
+
+
+    <div class="column Nyheder Burgere show">
+      <div class="content">
+        <img src="nyheder/hereford.jpg" alt="hereford" style="width:100%">
+        <h2>Hereford Wild West</h2>
+      </div>
+    </div>
+
+  <div class="column Nyheder Burgere show">
+    <div class="content">
+      <img src="nyheder/chicken.jpg" alt="Chicken" style="width:100%">
+      <h2>Brioche Fried Chicken</h2>
+    </div>
+  </div>
+
+  <div class="column Nyheder Burgere show">
+    <div class="content">
+    <img src="nyheder/chickenbacon.jpg" alt="chicken" style="width:100%">
+      <h2>Brioche Fried Chicken Cheese og Bacon</h2>
+    </div>
+  </div>
+  <!-- END GRID -->
+  </div>
+
+  <!-- END MAIN -->
+  </div>
+
+
+
+ <!-- Edvins ballade-->
+<h2 class="undertitel">Spændende nyheder fra Sunset Boulevard</h2> <br><br>
+<p class="undertitel-tekst">
+
+  Der er mange muligheder, når det kommer til take away. Hos Sunset Boulevard finder du et varieret menukort, hvor der er noget for enhver smag. Her får du sulten stillet med et lækkert måltid, og der er både muligheder med og uden kød. Vi byder nemlig alle velkommen uanset spisevaner og livsstil.
+
+  Vores menukort opdateres jævnligt med spændende nyheder, så du kan prøve noget nyt næste gang, du er på udkig efter lækker take away. Vi evaluerer jævnligt vores menukort, og vi er altid åbne over for idéer og forslag, som kan gøre kortet endnu mere attraktivt. Vi vil nemlig gerne servere det, som vores kunder efterspørger.
+  Ingen skal gå forgæves efter take away på Sunset Boulevard, som du finder over hele landet.
+
+  Du kan både bestille i vores restauranter eller online, hvor vi står klar med maden på det aftalte tidspunkt.
+
+</p>
+
+<!--Telefon-->
+<img src="mobil2.png" alt="Mobilapp" class=mobil11>
+<!--Undertitel ved siden af telefon-->
+<h1 class="mobiltekst11">Bestil nemt og<br> hurtigt i appen!</h1>
+<!--Undertiteltekst ved siden af telefon-->
+<p class=mobiltekst22>
+Vi har gjort det endnu nemmere at bestille dine favoritter. Bestil og betal direkte i app’en<br><br>
+– Så springer du køen i restauranten over.
+</p>
+<!--Appstore ikon-->
+<img src="appstore.png" alt="Appstore" class=appstore11>
+<img src="googleplay.png" alt="Google Play" class=googleplay11>
+<!--Sunset logo på midten af siden -->
+<img src="sunsetlogo1.png" alt="Sunset logo" class=sunsetlogo1>
+
+
+
+<footer class"footer">
+<div class="kolonne">
+  <h3>Sunset Boulevard</h3>
+    <p class="bundtekst">
+      SunsetPoint<br>
+      SunsetPLUS<br>
+      SunsetToGo<br>
+      Vertical Farming<br>
+      Børnekoncept<br>
+      Tilmeld dig vores nyhedsbrev<br>
+      Gavekort<br>
+    </p>
+</div>
+<div class="kolonne">
+  <h3>Nyheder</h3>
+    <p class="nyheder">
+      Danske Sunset Boulevard sætter omsætningsrekord i 2022 - ekspanderer til udlandet i 2023<br><br>
+      Sunset Boulevard øger børnemenu-salget markant efter udfasning af legetøj<br><br>
+      Sunset Boulevard sætter nye standarder for energiforbrug<br><br>
+    </p>
+</div>
+<div class="kolonne">
+    <h3>Information</h3>
+      <p class="bundtekst">
+        Om Sunset Boulevard<br>
+        Nyheder<br>
+        Presseside<br>
+        Jobs<br>
+        Allergeneoverblik<br>
+        Se smiley rapporter<br>
+      </p>
+</div>
+<div class="kolonne">
+    <h3>Kontakt os</h3>
+      <p class="bundtekst">
+        Ris og ros<br>
+        Restauranter<br>
+      </p>
+    <h3>Vilkår og betingelser</h3>
+      <p class="bundtekst">
+        Cookiepolitik<br>
+        Privatlivspolitik<br>
+        Handelsbetingelser<br>
+      </p>
+</div>
+
+<div class="bottom">
+  <div class="apps">
+    <p>Sunset Boulevard Apps:</p>
+    <img src="Sunset/appstore.png" alt="Hent appen i Apple Store" style="width:130px;height:40px;margin-top:5px;">
+    <img src="Sunset/googleplay.png" alt="Hent appen i Google Play" style="width:130px;height:40px;margin-top:5px;margin-left:40px;">
+  </div>
+  <div class="social">
+    <p>Følg os:</p>
+    <img src="ikon.png" alt="Facebook og Instagram" style="width:100px;height:50px;">
+  </div>
+</div>
+
+<div class="location">
+  <p>Sunset Boulevard - Nordager 26, 6000 Kolding - CVR: 30241509</p>
+  <p>©2021 Sunset Boulevard – Alle rettigheder forbeholdes</p>
+</div>
+
+</footer>
+
+
+</body>
+
+
+
+</html>
+
+JAVASCRIPT
+
+document.addEventListener("DOMContentLoaded", function() {
+  filterSelection("Nyheder");
+
+  // Add active class to the current button (highlight it)
+  var btnContainer = document.getElementById("myBtnContainer");
+  var btns = btnContainer.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function(){
+      var current = document.getElementsByClassName("active");
+      current[0].className = current[0].className.replace(" active", "");
+      this.className += " active";
+    });
+  }
+});
+
+
+// Filteringssektion burger - Sarah
+
+filterSelection("Nyheder")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "Nyheder") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+
+CSS
+
+*{
+
+ margin: 0;
+ padding: 0;
+ font-family: 'rokkitt', serif;
+ box-sizing: border-box;
+ background: #000000;
+ position: relative;
+
+}
+
+body {
+  background: #000000;
+  min-height: 100vh;
+  margin-left: 85px;
+  margin-right: 85px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.main {
+   flex-grow: 1;
+}
+
+.header{
+  width: 100%;
+  background: #000000;
+  padding-left: 0%;
+  padding-right: 11%;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+nav {
+  width: 1300px;
+  position: sticky;
+  overflow: visible;
+  z-index: 999;
+}
+
+.top-nav{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 30px 0 15px;
+ position: sticky;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+  z-index: 999;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-content a:hover {
+	background-color: #3a3a3a;
+  color: #006850;
+}
+
+
+.top-nav ul li{
+ list-style: none;
+ display: inline-block;
+ margin-right: 32px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ padding-left: 15px;
+}
+
+ul {
+  color: #18272F;
+  position: relative;
+  text-decoration: none;
+}
+
+.top-nav li:after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 1px;
+  display: block;
+  transition: all 0.3s ease;
+  bottom: 5%;
+}
+
+.top-nav li:hover::after {
+  width: 100%;
+  height: 1px;
+  background-color: #fff;
+}
+
+.top-nav ul li a{
+ color: #FFFF;
+ font-size: 22px;
+ font-weight: 600;
+ text-decoration: none;
+ letter-spacing: 1,5px;
+ padding-left: 10px;
+ display: block;
+}
+
+
+.top-nav button {
+ background: #f7d834;
+ color: #000;
+ border:0;
+ outline: 0;
+ border-radius: 28px;
+ padding: 15px;
+ width: 240px;
+ cursor: pointer;
+ height: 45px;
+ font-weight: 700;
+ height: 45px;
+ font-size: 18px;
+}
+
+
+.logo {
+  top: 0;
+  left: 0;
+  float:left;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  display: flex;
+}
+
+h1 {
+  color: white;
+  font-size: 38px;
+  font-weight: 900;
+}
+
+h3 {
+  font-weight: 900;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+.menukort {
+  float: left;
+  margin-left: 40px;
+  border-bottom: 1px solid white;
+  width: 1000px;
+
+}
+
+#pose {
+  height: 40px;
+  width: 40px;
+  float: right;
+  background: transparent;
+  position: absolute;
+  top: 50%;
+  transform: translatey(-50%);
+  margin-left: 10px;
+
+}
+
+.footer {
+   position: fixed;
+   bottom: 0;
+   width: 1300px;
+}
+
+.kolonne {
+  float: left;
+  width: 25%;
+  padding: 50px;
+  color: white;
+}
+
+.bundtekst {
+  line-height: 25px;
+  font-size: 16px;
+}
+
+.nyheder2 {
+  font-size: 16px;
+}
+
+.bottom {
+  bottom: 0;
+  padding: 50px;
+  position: static;
+  float: left;
+  width: 1300px;
+}
+
+.apps {
+  color: white;
+  float: left;
+}
+
+.social {
+  color: white;
+  float: right;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin-left: 30px;
+
+}
+
+.location {
+  color: white;
+  float: left;
+  width: 1250px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin-left: 50px;
+
+
+}
+
+.undertitel {
+  color: white;
+  font-size: 30px;
+  float: left;
+  width: 1135px;
+  margin: 0 auto;
+}
+
+.undertitel-tekst {
+  color: white;
+  font-size: 20px;
+  float: left;
+  width: 1135px;
+  margin: 0 auto;
+  font-weight: 700;
+}
+
+.mobil {
+  margin-left: 200px;
+  width: 20%;
+  background: transparent;
+}
+
+.mobiltekst1 {
+  position: absolute;
+  top: 1880px;
+  right: 480px;
+  font-weight: 700;
+
+}
+
+.mobiltekst2 {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  top: 1980px;
+  right: 110px;
+}
+
+.appstore {
+  width: 12%;
+  position: absolute;
+  top: 2060px;
+  right: 580px;
+}
+
+.googleplay {
+  width: 13.7%;
+  position: absolute;
+  top: 2060px;
+  right: 380px;
+}
+
+.mobil11 {
+  margin-left: 200px;
+  width: 20%;
+  background: transparent;
+}
+
+.mobiltekst11 {
+  position: absolute;
+  top: 1335px;
+  right: 480px;
+  font-weight: 700;
+  z-index: 9999;
+
+}
+
+.mobiltekst22 {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  top: 1435px;
+  right: 110px;
+}
+
+.appstore11 {
+  width: 12%;
+  position: absolute;
+  top: 1515px;
+  right: 580px;
+}
+
+.googleplay11 {
+  width: 13.7%;
+  position: absolute;
+  top: 1515px;
+  right: 380px;
+}
+
+.sunsetlogo1 {
+  width: 11%;
+  position: absolute;
+  top: 900px;
+  right: 15px;
+  clear: both;
+}
+
+
+.row {
+  margin: 2px -6px;
+  margin-bottom: 50px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 0px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide columns by default */
+  padding-bottom: 60px;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: transparent;
+  padding:0px;
+
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  border-right: 1px solid white;
+}
+
+/* Add a grey background color on mouse-over */
+.btn:hover {
+  text-decoration: underline 2px;
+  text-decoration-color: grey;
+}
+
+/* Add a dark background color to the active button */
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+
+div#myBtnContainer {
+  margin-bottom: 40px;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.content img {
+  border-radius: 16px;
+  border: solid 0.3px grey;
+  height: 300px;
+
+}
+
+
+
+/*/knaptekst/*/
+
+button.btn {
+  font-size: 20px;
+  padding-right:30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 30px;
+}
+
+div.content {
+  width: 400px;
+}
+
+.column.Nyheder.show {
+  height: auto !important;
+}
+
+
+
+/*/Edvin/*/
+
+.menu-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.menu-container img {
+  border: 0.009px solid #d1d1d1;
+  border-radius: 10px;
+}
+
+.menu1 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu2 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu3 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu4 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu5 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu6 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+.menu7 {
+  width: calc(33.33% - 20px);
+ margin: 10px;
+ text-align: center;
+}
+
+<!-- Hover fis -->
