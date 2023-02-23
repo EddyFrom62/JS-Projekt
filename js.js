@@ -46,3 +46,13 @@ for (var i = 0; i < btns.length; i++) {
 
 
 //Aner ikke hvad fanden jeg laver
+// Get the dropdown menu link and dropdown menu content
+	var dropdownLink = document.querySelector(".dropdown > a");
+	var dropdownContent = document.querySelector(".dropdown-content");
+
+	// Add event listeners to show and hide the dropdown menu
+	dropdownLink.addEventListener("mouseover", function() {
+		dropdownContent.style.display = "block";
+	});
+
+	dropdownLink.addEventListener("mouseout", function() {
