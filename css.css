@@ -173,8 +173,8 @@ p {
 
 .menukort {
   float: left;
-  margin-left: 40px;
-  border-bottom: 1px solid white;
+  margin-left: 75px;
+  margin-top: 30px;
   width: 1000px;
 
 }
@@ -304,13 +304,14 @@ p {
 
 .mobil11 {
   margin-left: 200px;
+  margin-top: 200px;
   width: 20%;
   background: transparent;
 }
 
 .mobiltekst11 {
   position: absolute;
-  top: 1335px;
+  top: 1735px;
   right: 480px;
   font-weight: 700;
   z-index: 9999;
@@ -322,30 +323,38 @@ p {
   font-size: 16px;
   font-weight: 700;
   position: absolute;
-  top: 1435px;
-  right: 110px;
+  margin-top: 1835px;
+  margin-left: 560px;
 }
 
 .appstore11 {
   width: 12%;
   position: absolute;
-  top: 1515px;
-  right: 580px;
+  top: 1915px;
+  left: 560px;
 }
 
 .googleplay11 {
   width: 13.7%;
   position: absolute;
-  top: 1515px;
-  right: 380px;
+  top: 1915px;
+  right: 350px;
 }
 
 .sunsetlogo1 {
   width: 11%;
   position: absolute;
-  top: 900px;
+  top: 1920px;
   right: 15px;
   clear: both;
+}
+
+.top {
+  height: 220px;
+  width: 1100px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 75px;
 }
 
 
