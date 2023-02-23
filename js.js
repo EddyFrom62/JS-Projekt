@@ -52,3 +52,8 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
+
+//Nadia
+document.querySelector('.dropdown').addEventListener('click', function() {
+  document.querySelector('.dropdown-content').classList.toggle('show');
+});
