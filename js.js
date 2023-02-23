@@ -41,6 +41,7 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
+<<<<<<< HEAD
 
 //Edvin ballade
 
@@ -56,3 +57,5 @@ for (var i = 0; i < btns.length; i++) {
 	});
 
 	dropdownLink.addEventListener("mouseout", function() {
+=======
+>>>>>>> 6f448c965e5c64a68a1a2b51fe723c9e04074fba
