@@ -41,17 +41,11 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 82ecaab331c6536601b30dd9f7bb18223a56c94f
 
 //Edvin ballade
 
+//Nadia
 
-//Aner ikke hvad fanden jeg laver
-<<<<<<< HEAD
-=======
 // Get the dropdown menu link and dropdown menu content
 	var dropdownLink = document.querySelector(".dropdown > a");
 	var dropdownContent = document.querySelector(".dropdown-content");
@@ -62,6 +56,3 @@ for (var i = 0; i < btns.length; i++) {
 	});
 
 	dropdownLink.addEventListener("mouseout", function() {
-=======
->>>>>>> 6f448c965e5c64a68a1a2b51fe723c9e04074fba
->>>>>>> 82ecaab331c6536601b30dd9f7bb18223a56c94f

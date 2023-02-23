@@ -90,10 +90,11 @@ nav {
 
 .top-nav ul li a{
  color: #FFFF;
- font-size: 20px;
+ font-size: 22px;
+ font-weight: 600;
  text-decoration: none;
- letter-spacing: 1.5px;
- padding-left: 12px;
+ letter-spacing: 1,5px;
+ padding-left: 10px;
  display: block;
 }
 
@@ -108,7 +109,7 @@ nav {
  width: 240px;
  cursor: pointer;
  height: 45px;
- font-weight: 900;
+ font-weight: 700;
  height: 45px;
  font-size: 18px;
 }
@@ -165,7 +166,7 @@ p {
    width: 1300px;
 }
 
-.column {
+.kolonne {
   float: left;
   width: 25%;
   padding: 50px;
@@ -351,7 +352,6 @@ div#myBtnContainer {
   border-radius: 16px;
   border: solid 0.3px grey;
   height: 300px;
-
 
 }
 
