@@ -77,6 +77,8 @@ nav {
   color: #006850;
 }
 
+.dropdown:hover {
+  text-decoration-color: #3a3a3a;
 }
 
 .top-nav ul li{
