@@ -1,8 +1,3 @@
-//DOM//
-
-document.addEventListener("DOMContentLoaded", function() {
-  filterSelection("Nyheder");
-
 
 // Filteringssektion burger - Sarah
 
