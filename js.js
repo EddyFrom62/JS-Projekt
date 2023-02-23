@@ -1,3 +1,21 @@
+document.addEventListener("DOMContentLoaded", function() {
+  filterSelection("Nyheder");
+
+  // Add active class to the current button (highlight it)
+  var btnContainer = document.getElementById("myBtnContainer");
+  var btns = btnContainer.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function(){
+      var current = document.getElementsByClassName("active");
+      current[0].className = current[0].className.replace(" active", "");
+      this.className += " active";
+    });
+  }
+});
+
+
+// Filteringssektion burger - Sarah
+
 filterSelection("Nyheder")
 function filterSelection(c) {
   var x, i;
@@ -41,18 +59,3 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " active";
   });
 }
-
-//Edvin ballade
-
-//Nadia
-
-// Get the dropdown menu link and dropdown menu content
-	var dropdownLink = document.querySelector(".dropdown > a");
-	var dropdownContent = document.querySelector(".dropdown-content");
-
-	// Add event listeners to show and hide the dropdown menu
-	dropdownLink.addEventListener("mouseover", function() {
-		dropdownContent.style.display = "block";
-	});
-
-	dropdownLink.addEventListener("mouseout", function() {
