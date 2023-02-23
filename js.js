@@ -1,7 +1,5 @@
 
 // Filteringssektion burger - Sarah
-
-
 filterSelection("Nyheder")
 function filterSelection(c) {
   var x, i;
