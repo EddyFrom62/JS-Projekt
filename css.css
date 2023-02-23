@@ -41,7 +41,9 @@ body {
  align-items: center;
  justify-content: space-between;
  padding: 30px 0 15px;
-
+ position: sticky;
+ top: 0;
+ overflow: hidden;
 }
 
 
@@ -52,23 +54,9 @@ body {
  margin-top: 10px;
  margin-bottom: 10px;
  padding-left: 15px;
+
 }
 
-.top-nav li:after {
-  content: "";
-  position: absolute;
-  width: 0%;
-  height: 1px;
-  display: block;
-  transition: all 0.3s ease;
-  bottom: 1%;
-}
-
-.top-nav li:hover::after {
-  width: 100%;
-  height: 1px;
-  background-color: #fff;
-}
 
 .top-nav ul li a{
  color: #FFFF;
@@ -76,6 +64,7 @@ body {
  text-decoration: none;
  letter-spacing: 1.5px;
  padding-left: 12px;
+ display: block;
 }
 
 
@@ -88,16 +77,10 @@ body {
  padding: 15px;
  width: 240px;
  cursor: pointer;
-<<<<<<< Updated upstream
  height: 45px;
- font-size: 20px;
  font-weight: 900;
-
-=======
- font-weight: 700;
  height: 45px;
  font-size: 18px;
->>>>>>> Stashed changes
 
 }
 
@@ -113,16 +96,24 @@ body {
 }
 
 nav {
-  height: 170px;
+  height: 110px;
   width: 1300px;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  z-index: 9999;
 }
 
 h1 {
   color: white;
   font-size: 38px;
+  font-weight: 900;
 
 }
 
+h3 {
+  font-weight: 900;
+}
 
 p {
   color: white;
@@ -145,16 +136,14 @@ p {
   position: absolute;
   top: 50%;
   transform: translatey(-50%);
-<<<<<<< Updated upstream
   margin-left: 10px;
-=======
->>>>>>> Stashed changes
+
 }
 
 .footer {
    position: fixed;
    bottom: 0;
-   width: 1100px;
+   width: 1300px;
 }
 
 .column {
@@ -178,7 +167,7 @@ p {
   padding: 50px;
   position: static;
   float: left;
-  width: 1100px;
+  width: 1300px;
 }
 
 .apps {
@@ -190,22 +179,27 @@ p {
   color: white;
   float: right;
   display: flex;
-  justify-content: flex-start;
-  align-items:center;
   flex-direction: column;
+  padding: 0;
+  margin-left: 30px;
 
 }
 
 .location {
   color: white;
   float: left;
-  padding-left: 50px;
-  width: 1100px;
+  width: 1250px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin-left: 50px;
+
+
 }
 
 .undertitel {
   color: white;
-  font-size: 28px;
+  font-size: 30px;
   float: left;
   width: 1135px;
   margin: 0 auto;
@@ -213,7 +207,7 @@ p {
 
 .undertitel-tekst {
   color: white;
-  font-size: 16px;
+  font-size: 20px;
   float: left;
   width: 1135px;
   margin: 0 auto;
@@ -265,57 +259,85 @@ p {
 }
 
 
-.menu-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
+.row {
+  margin: 2px -6px;
 }
 
-.menu-container img {
-  border: 0.009px solid #d1d1d1;
-  border-radius: 10px;
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 0px;
 }
 
-.menu1 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  display: none; /* Hide columns by default */
 }
 
-.menu2 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-.menu3 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Content */
+.content {
+  background-color: transparent;
+  padding:0px;
+
 }
 
-.menu4 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
 }
 
-.menu5 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  border-right: 1px solid white;
 }
 
-.menu6 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Add a grey background color on mouse-over */
+.btn:hover {
+  text-decoration: underline 2px;
+  text-decoration-color: grey;
 }
 
-.menu7 {
-  width: calc(33.33% - 20px);
- margin: 10px;
- text-align: center;
+/* Add a dark background color to the active button */
+.btn.active {
+  background-color: #666;
+  color: white;
 }
 
-<!-- Hover fis -->
+div#myBtnContainer {
+  margin-bottom: 40px;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.content img {
+  border-radius: 16px;
+  border: solid 0.3px grey;
+  height: 250px;
+  width: 150px;
+}
+
+/*/knaptekst/*/
+
+button.btn {
+  font-size: 20px;
+  padding-right:30px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 30px;
+}
