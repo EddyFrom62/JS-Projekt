@@ -242,7 +242,7 @@ p {
 
 .mobiltekst1 {
   position: absolute;
-  top: 720px;
+  top: 1880px;
   right: 480px;
   font-weight: 700;
 
@@ -253,21 +253,59 @@ p {
   font-size: 16px;
   font-weight: 700;
   position: absolute;
-  top: 820px;
+  top: 1980px;
   right: 110px;
 }
 
 .appstore {
   width: 12%;
   position: absolute;
-  top: 900px;
+  top: 2060px;
   right: 580px;
 }
 
 .googleplay {
   width: 13.7%;
   position: absolute;
-  top: 900px;
+  top: 2060px;
+  right: 380px;
+}
+
+.mobil11 {
+  margin-left: 200px;
+  width: 20%;
+  background: transparent;
+}
+
+.mobiltekst11 {
+  position: absolute;
+  top: 1335px;
+  right: 480px;
+  font-weight: 700;
+  z-index: 9999;
+
+}
+
+.mobiltekst22 {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  top: 1435px;
+  right: 110px;
+}
+
+.appstore11 {
+  width: 12%;
+  position: absolute;
+  top: 1515px;
+  right: 580px;
+}
+
+.googleplay11 {
+  width: 13.7%;
+  position: absolute;
+  top: 1515px;
   right: 380px;
 }
 
