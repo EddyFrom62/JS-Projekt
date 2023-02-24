@@ -348,6 +348,17 @@ p {
   clear: both;
 }
 
+<<<<<<< HEAD
+=======
+.top {
+  height: 220px;
+  width: 1100px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 75px;
+}
+
+>>>>>>> parent of 1b1d8eb (Update css.css)
 
 .row {
   margin: 2px -6px;
@@ -382,6 +393,40 @@ p {
 
 }
 
+<<<<<<< HEAD
+=======
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #0d5945;
+  color: white;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .3s ease;
+  opacity: 90%;
+}
+
+.container:hover .overlay {
+  height: 15%;
+}
+
+div.overlay {
+  width: 328px;
+  margin-left: 10px;
+  margin-bottom: 16px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  text-align: center;
+  font-size: 22px;
+
+}
+
+
+
+>>>>>>> parent of 1b1d8eb (Update css.css)
 /* The "show" class is added to the filtered elements */
 .show {
   display: block;
