@@ -55,3 +55,16 @@ for (var i = 0; i < btns.length; i++) {
 document.querySelector('.dropdown').addEventListener('click', function() {
   document.querySelector('.dropdown-content').classList.toggle('show');
 });
+
+const navbar = document.getElementById("navbar");
+const navTop = navbar.offsetTop;
+
+window.addEventListener("scroll", function() {
+  if (window.pageYOffset >= navTop) {
+    navbar.classList.add("sticky");
+    navbar.style.backgroundColor = "red"; // ændre farven til rød
+  } else {
+    navbar.classList.remove("sticky");
+    navbar.style.backgroundColor = "transparent"; // sæt farven tilbage til gennemsigtig
+  }
+});
