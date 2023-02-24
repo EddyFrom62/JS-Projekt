@@ -304,11 +304,7 @@ p {
 
 .mobil11 {
   margin-left: 200px;
-<<<<<<< Updated upstream
   margin-top: 200px;
-=======
-  top: 1735px;
->>>>>>> Stashed changes
   width: 20%;
   background: transparent;
 }
@@ -353,14 +349,6 @@ p {
   clear: both;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of a861c90 (virker nu)
-=======
->>>>>>> Stashed changes
 .top {
   height: 220px;
   width: 1100px;
@@ -368,17 +356,7 @@ p {
   margin-top: 10px;
   margin-left: 75px;
 }
-<<<<<<< Updated upstream
 
-<<<<<<< HEAD
->>>>>>> parent of 1b1d8eb (Update css.css)
-=======
-/* Sarahs rodebutik */
-
-/*filtreringsgallery*/
->>>>>>> parent of a861c90 (virker nu)
-=======
->>>>>>> Stashed changes
 
 .row {
   margin: 2px -6px;
@@ -413,11 +391,6 @@ p {
 
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of a861c90 (virker nu)
 .overlay {
   position: absolute;
   bottom: 0;
@@ -448,17 +421,13 @@ div.overlay {
 }
 
 
-<<<<<<< HEAD
 
->>>>>>> parent of 1b1d8eb (Update css.css)
-=======
->>>>>>> parent of a861c90 (virker nu)
 /* The "show" class is added to the filtered elements */
 .show {
   display: block;
 }
 
-/* knapper i galleri */
+/* Style the buttons */
 .btn {
   border: none;
   outline: none;
