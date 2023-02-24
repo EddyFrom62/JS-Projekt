@@ -191,6 +191,8 @@ p {
   font-size: 20px;
 }
 
+
+
 .menukort {
   float: left;
   margin-left: 75px;
@@ -362,7 +364,6 @@ p {
 }
 
 .sunsetlogo1 {
-  width: 11%;
   position: absolute;
   top: 1920px;
   right: 15px;
