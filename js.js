@@ -51,11 +51,12 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 
-//Nadia
+//Nadia sunset logo
 
 function bigImg(x) {
   x.style.height = "120px";
   x.style.width = "120px";
+  x.style.transition = "all 1s";
 }
 
 function normalImg(x) {
