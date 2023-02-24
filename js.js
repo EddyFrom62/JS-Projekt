@@ -63,3 +63,10 @@ function normalImg(x) {
   x.style.height = "100px";
   x.style.width = "100px";
 }
+
+function myFunction() {
+  var txt;
+  if (confirm("Hver dag. Sunset Boulevard – Det føles bare bedre!")) {
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
