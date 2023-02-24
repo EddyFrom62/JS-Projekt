@@ -52,19 +52,13 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 //Nadia
-document.querySelector('.dropdown').addEventListener('click', function() {
-  document.querySelector('.dropdown-content').classList.toggle('show');
-});
-
 const navbar = document.getElementById("navbar");
-const navTop = navbar.offsetTop;
+const scrollPos = 100;
 
 window.addEventListener("scroll", function() {
-  if (window.pageYOffset >= navTop) {
-    navbar.classList.add("sticky");
-    navbar.style.backgroundColor = "red"; // ændre farven til rød
+  if (window.scrollY > scrollPos) {
+    navbar.classList.add("scrolled");
   } else {
-    navbar.classList.remove("sticky");
-    navbar.style.backgroundColor = "transparent"; // sæt farven tilbage til gennemsigtig
+    navbar.classList.remove("scrolled");
   }
 });

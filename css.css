@@ -41,6 +41,14 @@ nav {
   margin-left: -5px;
 }
 
+#navbar {
+  position: fixed;
+}
+
+#navbar.scrolled {
+  background-color: #333;
+}
+
 .top-nav{
  display: flex;
  align-items: center;
@@ -78,11 +86,7 @@ nav {
   color: #006850;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
+
 
 .top-nav ul li{
  list-style: none;
