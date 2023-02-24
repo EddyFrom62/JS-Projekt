@@ -41,6 +41,15 @@ nav {
   margin-left: -5px;
 }
 
+.navbar {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.navbar-yellow {
+  background-color: yellow;
+}
 
 .top-nav{
  display: flex;
@@ -79,7 +88,11 @@ nav {
   color: #006850;
 }
 
-
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 .top-nav ul li{
  list-style: none;
