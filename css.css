@@ -354,9 +354,10 @@ p {
 
 .sunsetlogo1 {
   position: absolute;
-  top: 1920px;
-  right: 15px;
+  top: 2000px;
+  float:right;
   clear: both;
+  left: 1000px;
 }
 
 .top {
@@ -584,5 +585,5 @@ div.column.Nyheder.show {
 #box {
   color: white;
   font-size: 30px;
-  
+
 }

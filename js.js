@@ -52,27 +52,13 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 //Nadia
-<<<<<<< Updated upstream
+
 function bigImg(x) {
-  x.style.height = "20%";
-  x.style.width = "20%";
+  x.style.height = "120px";
+  x.style.width = "120px";
 }
 
 function normalImg(x) {
-  x.style.height = "11%";
-  x.style.width = "11%";
+  x.style.height = "100px";
+  x.style.width = "100px";
 }
-=======
-
-const box = document.getElementById('box');
-
-// 👇️ Change text color on mouseover
-box.addEventListener('mouseover', function handleMouseOver() {
-  box.style.color = 'red';
-});
-
-// 👇️ Change text color back on mouseout
-box.addEventListener('mouseout', function handleMouseOut() {
-  box.style.color = 'white';
-});
->>>>>>> Stashed changes
