@@ -304,7 +304,11 @@ p {
 
 .mobil11 {
   margin-left: 200px;
+<<<<<<< Updated upstream
   margin-top: 200px;
+=======
+  top: 1735px;
+>>>>>>> Stashed changes
   width: 20%;
   background: transparent;
 }
@@ -349,11 +353,14 @@ p {
   clear: both;
 }
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a861c90 (virker nu)
+=======
+>>>>>>> Stashed changes
 .top {
   height: 220px;
   width: 1100px;
@@ -361,6 +368,7 @@ p {
   margin-top: 10px;
   margin-left: 75px;
 }
+<<<<<<< Updated upstream
 
 <<<<<<< HEAD
 >>>>>>> parent of 1b1d8eb (Update css.css)
@@ -369,6 +377,8 @@ p {
 
 /*filtreringsgallery*/
 >>>>>>> parent of a861c90 (virker nu)
+=======
+>>>>>>> Stashed changes
 
 .row {
   margin: 2px -6px;
