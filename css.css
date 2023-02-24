@@ -41,15 +41,6 @@ nav {
   margin-left: -5px;
 }
 
-.navbar {
-  position: sticky;
-  top: 0;
-  background-color: white;
-}
-
-.navbar-yellow {
-  background-color: yellow;
-}
 
 .top-nav{
  display: flex;
@@ -59,6 +50,8 @@ nav {
  margin-right: 200px;
  position: relative;
 }
+
+
 
 .dropdown {
 	position: relative;
@@ -88,11 +81,7 @@ nav {
   color: #006850;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
+
 
 .top-nav ul li{
  list-style: none;
@@ -591,3 +580,9 @@ div.column.Nyheder.show {
 }
 
 <!-- Edvins Hover fis -->
+
+#box {
+  color: white;
+  font-size: 30px;
+  
+}
