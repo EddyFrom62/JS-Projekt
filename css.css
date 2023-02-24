@@ -41,13 +41,6 @@ nav {
   margin-left: -5px;
 }
 
-#navbar {
-  position: fixed;
-}
-
-#navbar.scrolled {
-  background-color: #333;
-}
 
 .top-nav{
  display: flex;

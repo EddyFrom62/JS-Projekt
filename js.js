@@ -52,13 +52,3 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 //Nadia
-const navbar = document.getElementById("navbar");
-const scrollPos = 100;
-
-window.addEventListener("scroll", function() {
-  if (window.scrollY > scrollPos) {
-    navbar.classList.add("scrolled");
-  } else {
-    navbar.classList.remove("scrolled");
-  }
-});
