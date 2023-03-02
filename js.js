@@ -70,3 +70,5 @@ function myFunction() {
   }
   document.getElementById("demo").innerHTML = txt;
 }
+
+//Edvins JS stress
